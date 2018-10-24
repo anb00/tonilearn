@@ -1,0 +1,8 @@
+@font-face {
+	font-family:'Myriad Set Pro';
+	font-style:italic;
+	font-weight:600;
+	src:url("Myriad-Set-Pro/myriad-set-pro_semibold-italic.woff") format("woff"), url("../fonts/Myriad-Set-Pro/myriad-set-pro_semibold-italic.ttf") format("truetype");
+	*src:url('');
+	/* Copyright (c) 1992 Adobe Systems Incorporated. All Rights Reserved. Myriad is a trademark of Adobe Systems Incorporated. */
+}
